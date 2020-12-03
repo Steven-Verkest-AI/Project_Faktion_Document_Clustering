@@ -1,4 +1,4 @@
-I had 5 days to complete project, i was sick for the last 2 days so could not finish up my resulsts.
+I had 5 days to complete project, i was sick for the last 2 days so could not finish up my results
 
 # Project_Faktion_Document_Clustering
 
